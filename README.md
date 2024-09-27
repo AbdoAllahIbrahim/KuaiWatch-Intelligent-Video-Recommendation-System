@@ -83,10 +83,6 @@ The dataset used in this project is fully observed, containing millions of user-
 2. Navigate to the project directory and install dependencies:
 3. Run the Jupyter notebooks in the `notebooks/` directory to replicate the analysis.
 
-## Contributors
-
-- **Zeyad**: EDA, model design, and evaluation.
-- **Kariman**: Data preprocessing, hypothesis testing, and feature engineering.
 
 ## References
 
